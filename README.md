@@ -1,6 +1,6 @@
 # Ghost Events and Gaming
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://app.netlify.com/sites/ghosteventsandgaming/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://ghosteventsandgaming.netlify.app/)
 
 ## Table of Contents
 
@@ -19,9 +19,19 @@
 
 Ghost Events and Gaming is a web platform designed to provide a comprehensive space for organizing and promoting gaming events. The site offers an easy-to-navigate interface for both event organizers and participants, enabling seamless communication and efficient event management.
 
+Created as a team by:
+
+- https://github.com/MLazalde
+- https://github.com/B1LLYBAGZ
+- https://github.com/jjenkz
+- https://github.com/LorenzoNolasco
+- https://github.com/LisaLReynolds
+
+
+
 **Website:** [https://ghosteventsandgaming.netlify.app/](https://ghosteventsandgaming.netlify.app/)
 
-**GitHub Repository:** [https://github.com/B1LLYBAGZ/GhostGames](https://github.com/B1LLYBAGZ/GhostGames)
+**GitHub Repository:** [https://github.com/MLazalde/GhostGames.git](https://github.com/MLazalde/GhostGames.git)
 
 ## Features
 
@@ -63,7 +73,7 @@ Ghost Events and Gaming is a web platform designed to provide a comprehensive sp
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/B1LLYBAGZ/GhostGames.git
+git clone https://github.com/MLazalde/GhostGames.git
 cd GhostGames
 ```
 
@@ -136,8 +146,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions, suggestions, or issues, please feel free to contact:
 
-- **William Hogan**
-- **Email:** [098williamhogan@gmail.com](mailto:098williamhogan@gmail.com)
-- **GitHub:** [https://github.com/B1LLYBAGZ](https://github.com/B1LLYBAGZ)
+- **Miguel Lazalde**
+- **Email:** [Mikealazalde@gmail.com](mailto:Mikealazalde@gmail.com)
+- **GitHub:** [https://github.com/MLazalde](https://github.com/MLazalde)
 
 ---
